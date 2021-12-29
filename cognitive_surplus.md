@@ -15,19 +15,20 @@ Digital technology was truly kicked off with the invention of the integrated cir
 
 With the broad technological revolutions since the Industrial Revolution, human beings now have both the free time, and the digital technology to contribute their cognitive efforts toward an almost Global Cognitive Surplus.
 
-Application to Software:
-Software is eating the world
-Economics of Open Source
-create once, replicate ad infinitum
+How much free time do people have exactly? If we limit ourselves to the US, then [this Rand Study](https://www.cdc.gov/pcd/issues/2019/19_0017.htm) says 5 hours per day. So 5 hours/day * 365 days * 300 million Americans = 547,500,000,000 free hours per year, roughly half a trillion.
 
-Pareto’s law:
-creation side: a few contribute most (see Wikipedia)
+As a software engineer, I’m especially interested in how this applies to software. We can distinguish between several “vectors of analysis”:
 
-Social media: sharing memes
+* “software is eating the world” - as per Marc Andreessen. Software is quickly becoming more important in many aspects of human life.
+* the economics of software: extremely low marginal cost of production, and extremely low cost of distribution. Build once, sell everywhere, to anyone, for as long as possible.
+* open source: this is where Cognitive Surplus really shines in the context of software. Developers and content creators contribute their cognitive energy to an effort that benefits a wider community, and can then be used and built upon by anyone else. 
+	* a great example is the plethora of open source software libraries available for any programming language. Each library only had to be written once, with contributions from any number of volunteers. Then it can be immediately used by thousands or even millions of other developers and users to accomplish their own objectives.
 
-Communal surplus: by the community, for the community
-Civic value: created by participants, benefiting society as a whole
+Lik	e any product of human creativity, the fruits of Cognitive Surplus are likely to follow a Power Law: roughly, 80% of the body of output comes from 20% of people involved, and 64% comes from the top 4%, and so forth.
 
-How much free time do Americans have? 
-Rand Study says 5 hrs: https://www.cdc.gov/pcd/issues/2019/19_0017.htm
-5 hours/day * 365 days * 300 million Americans = 547,500,000,000 free hours per year, roughly half a trillion or .
+Types of Cognitive Surplus:
+
+* Communal surplus: by the community, for the community. 
+	* Venn diagram: exactly overlapping circles. 
+* Civic value: created by participants, benefiting society as a whole. 
+	* Venn diagram: a smaller circle contained within a larger circle.
