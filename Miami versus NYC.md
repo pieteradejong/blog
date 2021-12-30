@@ -1,4 +1,4 @@
-# Miami versus NYC
+# [DRAFT] Miami versus NYC
 
 On September 1, 2021, I left NYC for Miami, for a variety of reasons.
 
